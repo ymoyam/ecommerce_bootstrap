@@ -5,6 +5,16 @@ body{
   background-color: honeydew;
 
 }
+@media only screen and (min-width:501px){
+  body{
+    background-color: grey;
+  }
+}
+@media only screen and (min-width:960px){
+  body{
+    background-image: url("ima18.png");
+  }
+}
 
 .jumbotron{
   background-color: lightsteelblue;
