@@ -3,6 +3,10 @@
 @media only screen and (max-width:500px){
   body{
   background-color: honeydew;
+    .menues{
+  display: flex;
+  flex-direction: column;
+    }
 
   }
 }
