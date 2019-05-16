@@ -3,10 +3,21 @@
 @media only screen and (max-width:500px){
   body{
   background-color: honeydew;
-    .menues{
-  display: flex;
-  flex-direction: column;
-    }
+   #dropdown1{
+  margin-right: 10px;
+
+}
+#dropdown3{
+  margin-right: 10px;
+
+}
+
+#dropdown2{
+    margin-right: 100px;
+}
+.carusel h3{
+  color: red;
+}
 
   }
 }
