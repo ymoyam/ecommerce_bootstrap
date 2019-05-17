@@ -12,45 +12,13 @@
   body{
     background-color: grey;
   }
- .menues{
-  display: flex;
-  flex-direction: row;
-
-}
-#dropdown1{
-  margin-right: 20px;
-
-}
-#dropdown3{
-  margin-right: 20px;
-
-}
-
-#dropdown2{
-    margin-right: 20px;
-}
+ 
 }
 @media only screen and (min-width:960px){
   body{
     background-image: url("ima18.png");
   }
-  .menues{
-  display: flex;
-  flex-direction: row;
-
-}
-#dropdown1{
-  margin-right: 20px;
-
-}
-#dropdown3{
-  margin-right: 20px;
-
-}
-
-#dropdown2{
-    margin-right: 20px;
-}
+  
 }
 
 .jumbotron{
@@ -71,6 +39,23 @@
 .categ h3{
   color: navy;
 
+}
+menues{
+  display: flex;
+  flex-direction: row;
+
+}
+#dropdown1{
+  margin-right: 20px;
+
+}
+#dropdown3{
+  margin-right: 20px;
+
+}
+
+#dropdown2{
+    margin-right: 20px;
 }
 .carusel{
   margin-top: 50px;
