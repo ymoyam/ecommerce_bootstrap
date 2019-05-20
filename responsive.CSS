@@ -1,7 +1,8 @@
-
+@media only screen and (min-width:498px, max-whidth:500px){
 body{
   background-color: honeydew;
 
+ }
 }
 @media only screen and (min-width:501px){
   body{
