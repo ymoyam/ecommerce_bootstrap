@@ -1,11 +1,6 @@
 
-
-@media only screen and (max-width:500px){
-  body{
+body{
   background-color: honeydew;
-
-  }
-}
 
 }
 @media only screen and (min-width:501px){
@@ -18,7 +13,6 @@
     background-image: url("ima18.png");
   }
 }
-
 .jumbotron{
   background-color: lightsteelblue;
   background-image: url("ima8.jpg");
@@ -43,7 +37,23 @@
   background-color: lightsteelblue;
 }
 
+.menues{
+  display: flex;
+  flex-direction: row;
 
+}
+#dropdown1{
+  margin-right: 20px;
+
+}
+#dropdown3{
+  margin-right: 20px;
+
+}
+
+#dropdown2{
+    margin-right: 20px;
+}
 .carusel h3{
   color: red;
 }
